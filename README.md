@@ -13,6 +13,6 @@ macOS Check the system requirements and follow the setup instructions for Xcode 
 
 Linux Check the system requirements and follow the setup instructions for the Android SDK on Linux: https://docs.nativescript.org/start/ns-setup-linux
 
-To open the application. Open the terminal and run cd check-in-app. Switches to the directory containing the project. tns run android --bundle to install the application on mobile phone.
+To open the application. Open the terminal and run cd check-in-app. Switches to the directory containing the project. NPM install to run all modules then tns run android --bundle to install the application on mobile phone.
 
 Dummy data in application - Email: Higashioka.ym@gmail.com Password: 123456789
